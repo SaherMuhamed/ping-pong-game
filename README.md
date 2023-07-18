@@ -3,13 +3,13 @@ A simple implementation of the classic Pong game using Python and the Turtle mod
 
 ## Table of Contents
 - <a href="https://github.com/SaherMuhamed/ping-pong-game#introduction">Introduction</a>
-- Instructions
-- Gameplay
-- Screenshots
-- Features
-- Requirements
-- Controls
-- Credits
+- <a href="https://github.com/SaherMuhamed/ping-pong-game#instructions">Instructions</a>
+- <a href="https://github.com/SaherMuhamed/ping-pong-game#gameplay">Gameplay</a>
+- <a href="https://github.com/SaherMuhamed/ping-pong-game#screenshots">Screenshots</a>
+- <a href="https://github.com/SaherMuhamed/ping-pong-game#features">Features</a>
+- <a href="https://github.com/SaherMuhamed/ping-pong-game#requirements">Requirements</a>
+- <a href="https://github.com/SaherMuhamed/ping-pong-game#controls">Controls</a>
+- <a href="https://github.com/SaherMuhamed/ping-pong-game#credits">Credits</a>
 
 ## Introduction
 Pong is a two-player arcade game where players control paddles on either side of the screen and use them to hit a ball back and forth. The objective is to prevent the ball from going past your paddle while trying to score points by making the ball pass the opponent's paddle.<br><br>
