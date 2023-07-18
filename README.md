@@ -2,7 +2,7 @@
 A simple implementation of the classic Pong game using Python and the Turtle module.
 
 ## Table of Contents
-- Introduction
+- [a [link](https://github.com/SaherMuhamed/ping-pong-game#introduction)]Introduction
 - Instructions
 - Gameplay
 - Screenshots
@@ -21,7 +21,7 @@ This Python implementation of Pong provides a simple graphical interface using t
 - Score points by making the ball pass your opponent's paddle.
 - The game continues until one player reaches the maximum score limit or until you exit the game.
 
-##Gameplay
+## Gameplay
 The game starts with the ball positioned in the center of the screen. Each player controls a paddle located on the left and right sides. By moving the paddles up or down, the players can hit the ball and change its direction. The ball bounces off the walls and the paddles, simulating a real-world physics experience.<br><br>
 The players score points when the ball passes their opponent's paddle. The score is displayed on the scoreboard located at the top of the screen. The game continues until a player reaches the maximum score limit or until you exit the game.
 
