@@ -2,7 +2,7 @@
 A simple implementation of the classic Pong game using Python and the Turtle module.
 
 ## Table of Contents
-- [a [link](https://github.com/SaherMuhamed/ping-pong-game#introduction)]Introduction
+- <a href="https://github.com/SaherMuhamed/ping-pong-game#introduction">Introduction</a>
 - Instructions
 - Gameplay
 - Screenshots
